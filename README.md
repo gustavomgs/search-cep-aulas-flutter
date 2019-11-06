@@ -13,12 +13,12 @@ Aplicativo para consultar CEP através da API do VIA CEP
 
 ## Desafios
 
--   [X]Criar e usar temas Light e Dark.
--   [X]Criar um IconButton na AppBar para alternar entre os temas.
--   [X]Criar um formulário para adicionar todas os campos do JSON.
--   [X]Validar o campo de digitação de CEP.
+-   [X] Criar e usar temas Light e Dark.
+-   [X] Criar um IconButton na AppBar para alternar entre os temas.
+-   [X] Criar um formulário para adicionar todas os campos do JSON.
+-   [X] Validar o campo de digitação de CEP.
 -   Tratar todas [exceções] e utilize [Flushbar] para exibir os erros para o usuário.
--   [X]Adicionar um IconButton na AppBar para compartilhar o CEP.
+-   [X] Adicionar um IconButton na AppBar para compartilhar o CEP.
 
 ## Licença
 
