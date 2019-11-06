@@ -3,9 +3,9 @@
 Aplicativo para consultar CEP através da API do VIA CEP
 
 <p align="center">
-    <img src="https://github.com/gustavomgs/search-cep-aulas-flutter/blob/master/lib/images/screenshot_1.png" heith="400"/>
-    <img src="https://github.com/gustavomgs/search-cep-aulas-flutter/blob/master/lib/images/screenshot_2.png" heith="400"/>
-    <img src="https://github.com/gustavomgs/search-cep-aulas-flutter/blob/master/lib/images/screenshot_3.png" heith="400"/>
+    <img src="https://github.com/gustavomgs/search-cep-aulas-flutter/blob/master/lib/images/screenshot_1.png" heigth="400"/>
+    <img src="https://github.com/gustavomgs/search-cep-aulas-flutter/blob/master/lib/images/screenshot_2.png" heigth="400"/>
+    <img src="https://github.com/gustavomgs/search-cep-aulas-flutter/blob/master/lib/images/screenshot_3.png" heigth="400"/>
 </p>
 
 ## Alunos
